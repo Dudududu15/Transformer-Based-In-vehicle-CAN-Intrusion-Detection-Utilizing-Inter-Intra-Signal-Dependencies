@@ -33,7 +33,6 @@ How to run CANformer
 --factor 3
 --e_layers 3
 --enc_in 76
---dec_in 76
 --c_out 76
 --top_k 3
 --anomaly_ratio 1
